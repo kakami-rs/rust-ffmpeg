@@ -1,5 +1,5 @@
 [package]
-name    = "ffmpeg-next-fork"
+name    = "ffmpeg-next-quadra"
 version = "8.0.0"
 build   = "build.rs"
 
